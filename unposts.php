@@ -5,8 +5,7 @@
 /*
 Plugin Name: Unposts
 Plugin URI: https://github.com/typicalmike002/unposts
-Description: A simple method for disabling posts by default on a 
-WordPress site.  Useful for when only a simple website is necessary.
+Description: Disables Posting and Commenting capabilities.  Useful for when the blog feature WordPress offers is not necessary and a developer would like the Post and Comments option to disapear.  All Posts and Comments are still saved and you can easliy disable this plugin to get the features back.
 Version: 1.0
 Author: typicalmike002
 Author URI: https://github.com/typicalmike002/
